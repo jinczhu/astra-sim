@@ -6,7 +6,7 @@
 	url = git@github.com:astra-sim/astra-network-garnet.git
 [submodule "extern/graph_frontend/param"]
 	path = extern/graph_frontend/param
-	url = git@github.com:facebookresearch/param.git
+	url = github.com:facebookresearch/param.git
 	branch = main
 [submodule "extern/remote_memory_backend/analytical"]
 	path = extern/remote_memory_backend/analytical
