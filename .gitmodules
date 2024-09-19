@@ -3,7 +3,7 @@
 	url =github.com:astra-sim/astra-network-analytical.git
 [submodule "extern/network_backend/garnet/gem5_astra"]
 	path = extern/network_backend/garnet/gem5_astra
-	url = git@github.com:astra-sim/astra-network-garnet.git
+	url = github.com:astra-sim/astra-network-garnet.git
 [submodule "extern/graph_frontend/param"]
 	path = extern/graph_frontend/param
 	url = github.com:facebookresearch/param.git
